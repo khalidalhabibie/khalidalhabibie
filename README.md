@@ -2,9 +2,9 @@
 
 Backend engineer focused on reliable systems, production thinking, and backend architecture.
 
-I build backend systems with Go and Java, with a strong interest in reliability, system design, financial workflows, and real-world production engineering. I care about software that is not only functional, but dependable under real usage, concurrency, and operational pressure.
+I build backend systems with Go and Java, with a strong interest in reliability, system design, concurrency, and real-world production engineering. I care about software that is not only functional, but dependable under real usage and operational pressure.
 
-## What I Focus On
+## Focus
 
 - Backend Engineering
 - Reliability and Production Systems
@@ -26,15 +26,29 @@ Production-style blockchain orchestration backend for wallet-based transfers, tr
 ### [GoArticle](https://github.com/khalidalhabibie/GoArticle)
 Article management backend in Go with clean architecture, PostgreSQL, Redis caching, Swagger, and observability.
 
+## Currently Building
+
+### Ourdo Atlas
+An operational learning platform designed for hybrid classes, bootcamps, mentoring, and cohort-based programs.
+
+Built to help small to mid-sized learning organizations manage:
+- courses and modules
+- students and mentors
+- enrollment flows
+- assignments and reviews
+- progress tracking
+- live session scheduling
+- announcements and class coordination
+
 ## Writing
 
 I write about backend engineering, reliable systems, distributed systems, backend architecture, and production thinking.
 
 - [Medium](https://medium.com/@khalidalhabibie)
-- [Why Good Backend Engineers Think Beyond the Happy Path](https://medium.com/@khalidalhabibie)
-- [Reconciliation Is More Than Matching Data](https://medium.com/@khalidalhabibie)
-- [Clean Architecture Alone Does Not Make a System Production-Ready](https://medium.com/@khalidalhabibie)
-- [Ownership in Backend Engineering: More Than Just Closing Tickets](https://medium.com/@khalidalhabibie)
+
+## Building at Ourdo
+
+- [Ourdo](https://www.ourdo.id) — platform for collaboration, learning, and growth
 
 ## Connect
 
@@ -42,4 +56,5 @@ I write about backend engineering, reliable systems, distributed systems, backen
 - [Medium](https://medium.com/@khalidalhabibie)
 
 ---
+
 Building reliable systems for problems that matter.
