@@ -33,7 +33,7 @@ Spring Boot backend for AI-assisted field operations with human approval, audita
 
 ## Applied Systems & Research
 
-### [Baruna — Environmental WebGIS](LIVE_BARUNA_URL)
+### [Baruna — Environmental WebGIS](https://baruna.ourdo.id/)
 
 An applied GIS and environmental observation platform exploring how multi-source geospatial data can be processed, compared, and explained through a reproducible WebGIS workflow.
 
