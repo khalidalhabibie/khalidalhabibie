@@ -33,17 +33,19 @@ Spring Boot backend for AI-assisted field operations with human approval, audita
 
 ## Applied Systems & Research
 
-### Baruna — Environmental WebGIS
+### [Baruna — Environmental WebGIS](LIVE_BARUNA_URL)
 
-An applied GIS and environmental observation project exploring how multi-source geospatial data can be processed, compared, and explained through a reproducible WebGIS workflow.
+An applied GIS and environmental observation platform exploring how multi-source geospatial data can be processed, compared, and explained through a reproducible WebGIS workflow.
 
-The research direction includes spatial data integration, PostGIS-based processing, administrative or landscape-level aggregation, explainable indicators, and environmental observation using sources such as forest-loss and fire-hotspot data.
+Baruna combines spatial data integration, PostGIS-based processing, administrative or landscape-level aggregation, explainable indicators, and environmental observation using data such as forest-loss and fire-hotspot signals.
 
-Baruna is being developed as both a software system and a research reference implementation. The current positioning is intentionally observational rather than claiming to measure environmental quality without appropriate domain validation.
+The project is being developed both as a working WebGIS system and as a reference implementation for research into explainable and reproducible environmental observation.
 
 ### [Hephaestus Backend Forge](https://github.com/khalidalhabibie/hephaestus-backend-forge)
 
 A structured backend engineering learning workspace covering Java, Spring, transactions, databases, messaging, performance, Redis, security, deployment, and observability.
+
+It reflects my interest not only in building systems, but also in structuring and transferring engineering knowledge.
 
 ## Currently Building
 
@@ -61,20 +63,35 @@ Built to help small to mid-sized learning organizations manage:
 - live session scheduling
 - announcements and class coordination
 
+## Research & Applied Technology
+
+My interests in applied technology extend beyond backend systems into environmental technology, geospatial systems, and AI-assisted software.
+
+Previous work includes applied deep-learning research for smart waste classification, while current exploration includes Baruna and other systems that connect software engineering with real-world operational and environmental problems.
+
 ## Writing
 
-I write about backend engineering, reliable systems, distributed systems, backend architecture, production thinking, and applied software systems.
+I write about:
 
-- [Medium](https://medium.com/@khalidalhabibie)
+- backend engineering
+- reliable systems
+- distributed systems
+- backend architecture
+- production engineering
+- AI-assisted systems
+- applied software systems
+
+[Read my articles on Medium](https://medium.com/@khalidalhabibie)
 
 ## Building at Ourdo
 
-- [Ourdo](https://www.ourdo.id) — platform for collaboration, learning, and growth
+I am also building and exploring technology initiatives through [Ourdo](https://www.ourdo.id), with interests spanning software delivery, learning platforms, data systems, GIS, and applied technology.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/khalidalhabibie/)
 - [Medium](https://medium.com/@khalidalhabibie)
+- [Ourdo](https://www.ourdo.id)
 
 ---
 
